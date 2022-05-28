@@ -1,0 +1,15 @@
+D:\School\School\Spring 2022\CSE 210\jumper_game\bin\Debug\net6.0\jumper_game.exe
+D:\School\School\Spring 2022\CSE 210\jumper_game\bin\Debug\net6.0\jumper_game.deps.json
+D:\School\School\Spring 2022\CSE 210\jumper_game\bin\Debug\net6.0\jumper_game.runtimeconfig.json
+D:\School\School\Spring 2022\CSE 210\jumper_game\bin\Debug\net6.0\jumper_game.dll
+D:\School\School\Spring 2022\CSE 210\jumper_game\bin\Debug\net6.0\jumper_game.pdb
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.csproj.AssemblyReference.cache
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.AssemblyInfoInputs.cache
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.AssemblyInfo.cs
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.csproj.CoreCompileInputs.cache
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.dll
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\refint\jumper_game.dll
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.pdb
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\jumper_game.genruntimeconfig.cache
+D:\School\School\Spring 2022\CSE 210\jumper_game\obj\Debug\net6.0\ref\jumper_game.dll
